@@ -22,13 +22,14 @@ IoU         |    U-Net   |   FCNs
  BF     |   95.98%   |  93.75%
  FP     |   87.29%   |  82.39%
 
+![FCNs_output]()
 
  
-<img src="https://github.com/fttlzyx/Computer-Vision_Multiclass-Semantic-Segmentation/assets/79032474/91cc5d10-b834-4b5a-b2c6-5605277eccfc" width = "70%">
+<img src="https://github.com/fttlzyx/fttlzyx/assets/79032474/5e480e4a-ef8a-45f5-992e-8a0979cf7e12" width = "70%">
 
 _Figure 1 - Random selected sample prediction result from U-Net Model_
 
-<img src="https://github.com/fttlzyx/Computer-Vision_Multiclass-Semantic-Segmentation/assets/79032474/873e535d-05b1-4e21-909f-25d9088eed0a" width="70%">
+<img src="https://github.com/fttlzyx/fttlzyx/assets/79032474/5624f617-ab72-4b14-aacb-24646e20033e" width="70%">
 
 _Figure 2 - Random selected sample prediction result from FCNs Model_
 
